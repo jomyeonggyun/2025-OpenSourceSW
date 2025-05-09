@@ -1,2 +1,3 @@
-# 2025-OpenSourceSW
-## 2025년 오픈소스SW활용 3주차 과제 수정!!!!
+x = int(input())
+y = int(input())
+print(f'{x} + {y}= {x + y}')
